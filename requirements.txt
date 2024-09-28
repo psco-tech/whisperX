@@ -1,7 +1,7 @@
-torch>=2
-torchaudio>=2
-faster-whisper==1.0.0
+torch
+torchaudio
+faster-whisper==1.0.3
 transformers
 pandas
-setuptools>=65
+setuptools
 nltk
